@@ -1,0 +1,28 @@
+{
+    "juegos": [
+      {
+        "nombre": "Galaxia Estelar",
+        "genero": "Aventura espacial",
+        "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+        "precio": 59.99,
+        "descripcion": "Embárcate en una emocionante aventura a través de la galaxia, explorando planetas desconocidos y combatiendo contra alienígenas en este juego de acción y exploración espacial.",
+        "fecha_lanzamiento": "2024-07-15"
+      },
+      {
+        "nombre": "Reinos Mágicos",
+        "genero": "RPG de fantasía",
+        "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+        "precio": 49.99,
+        "descripcion": "Sumérgete en un mundo de magia y misterio, donde podrás crear tu propio personaje y explorar vastos reinos llenos de criaturas fantásticas y peligros inimaginables.",
+        "fecha_lanzamiento": "2024-09-20"
+      },
+      {
+        "nombre": "Desafío Extremo",
+        "genero": "Juego de supervivencia",
+        "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+        "precio": 39.99,
+        "descripcion": "Sobrevive en un entorno hostil donde cada decisión cuenta. Construye refugios, caza para alimentarte y defiéndete de peligrosos depredadores en este desafiante juego de supervivencia.",
+        "fecha_lanzamiento": "2024-06-10"
+      }
+    ]
+  }
