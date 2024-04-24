@@ -1,0 +1,71 @@
+{
+  "juegos": [
+    {
+      "nombre": "Cyberpunk",
+      "genero": "Juego de aventura",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 39.99,
+      "descripcion": "Sumérgete en un mundo oscuro y perturbador donde los límites entre la realidad y la pesadilla se desdibujan. Explora lugares escalofriantes y enfrenta tus miedos en este juego de terror psicológico.",
+      "fecha_lanzamiento": "2024-10-31",
+      "img": "./img/cyberpunk/1.jpg"
+    },
+    {
+      "nombre": "Horizons",
+      "genero": "Simulación espacial",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 49.99,
+      "descripcion": "Pilota tu propia nave espacial a través de un vasto universo lleno de planetas, estaciones espaciales y peligros cósmicos. Comercia, combate y explora en esta épica simulación espacial.",
+      "fecha_lanzamiento": "2024-12-05",
+      "img": "./img/horizons/4.jpg"
+    },
+    {
+      "nombre": "Legacy",
+      "genero": "Juego de supervivencia en el oeste",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 44.99,
+      "descripcion": "Sobrevive en el salvaje oeste, donde la ley del más fuerte es la única regla que importa. Caza, comercia y lucha por tu vida en este desafiante juego de supervivencia ambientado en una época de frontera.",
+      "fecha_lanzamiento": "2024-09-05",
+      "img": "./img/legacy/4.jpg"
+    },
+    {
+      "nombre": "Eternal Kingdoms",
+      "genero": "Estrategia en tiempo real",
+      "plataforma": ["PC"],
+      "precio": 54.99,
+      "descripcion": "Construye y defiende tu propio reino en un mundo de fantasía lleno de magia y peligros. Dirige ejércitos, forja alianzas y conquista territorios en este emocionante juego de estrategia en tiempo real.",
+      "fecha_lanzamiento": "2024-11-20"
+    },
+    {
+      "nombre": "Skyrim Chronicles",
+      "genero": "Juego de rol de mundo abierto",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 59.99,
+      "descripcion": "Vuelve a sumergirte en el vasto mundo de Skyrim, lleno de dragones, magia y aventuras épicas. Explora nuevas tierras, completa misiones emocionantes y forja tu propio destino en este juego de rol legendario.",
+      "fecha_lanzamiento": "2024-07-01"
+    },
+    {
+      "nombre": "Underworld Chronicles",
+      "genero": "Juego de acción y sigilo",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 49.99,
+      "descripcion": "Embárcate en una misión de infiltración en las profundidades del inframundo, donde criaturas oscuras y secretos antiguos acechan en cada sombra. Utiliza el sigilo y la astucia para sobrevivir en este desafiante juego de acción.",
+      "fecha_lanzamiento": "2024-08-15"
+    },
+    {
+      "nombre": "Future Warfare",
+      "genero": "Shooter táctico",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 54.99,
+      "descripcion": "Únete a un equipo de élite en un conflicto global donde la tecnología y la estrategia son tus armas más poderosas. Experimenta combates intensos y tácticas avanzadas en este shooter táctico de última generación.",
+      "fecha_lanzamiento": "2024-10-10"
+    },
+    {
+      "nombre": "Lost Civilization",
+      "genero": "Aventura de exploración",
+      "plataforma": ["PC", "PlayStation 5", "Xbox Series X"],
+      "precio": 49.99,
+      "descripcion": "Descubre los misterios de una civilización antigua perdida en lo más profundo de la selva amazónica. Explora ruinas antiguas, desentraña secretos olvidados y enfrenta peligros ancestrales en esta emocionante aventura de exploración.",
+      "fecha_lanzamiento": "2024-09-30"
+    }
+  ]
+}
